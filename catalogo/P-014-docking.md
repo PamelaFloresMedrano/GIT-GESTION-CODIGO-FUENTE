@@ -1,10 +1,10 @@
 # Ficha de Producto
 
 - **Codigo:** P-0XX
-- **Nombre:**
-- **Categoria:**
-- **Precio (USD):**
-- **Stock:**
+- **Nombre:** test
+- **Categoria:** test
+- **Precio (USD):** 100
+- **Stock:** 1
 - **Estado:** activo | inactivo
 - **Equipo responsable:** Equipo XX
 
